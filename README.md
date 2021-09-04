@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-博客地址: https://www.thread-blog.org/
+博客地址 : https://www.thread-blog.org/
